@@ -1,0 +1,17 @@
+.asterick::after {
+  content: "*";
+  color: red
+}
+
+.row{
+  margin-bottom: 15px;
+}
+.page{
+  padding-top: 10px;
+}
+label.error {
+  color: red;
+  font-size: 15px;
+  /* display: block; */
+  margin-left: 15px;
+}
